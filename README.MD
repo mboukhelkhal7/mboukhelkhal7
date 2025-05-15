@@ -16,7 +16,7 @@ A command-line Java application that allows users to track income and expenses t
 ---
 
 ## 📫 Connect With Me
-- ✉️ Email: **mboukhelkhal7@gmail.com**  
+- ✉️ Email: **maboukhelkhal@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/mahmoud-boukhelkhal-061447337  
 
 ---
